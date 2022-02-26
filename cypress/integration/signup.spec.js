@@ -1,4 +1,4 @@
-import signupPage from '../pages/signupPage'
+import signupPage from '../pages/SignupPage'
 import sigupFactory from '../factories/SignupFactory'
 
 describe('Sign up', function () {
