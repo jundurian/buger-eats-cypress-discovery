@@ -1,0 +1,54 @@
+{
+    "signup":{
+        "name":"Gabriel",
+        "cpf": "00000012121",
+        "email": "hahahaa@hotmail.com",
+        "zap": "11999999999",
+        "address": {
+            "postalcode": "13010210",
+            "street": "Rua Sacramento",
+            "number": "1000",
+            "details": "apto 142",
+            "district": "Centro",
+            "city_state": "Campinas/SP"
+
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv":{
+        "name":"Gabriel",
+        "cpf": "00000012121AA",
+        "email": "hahahaa@hotmail.com",
+        "zap": "11999999999",
+        "address": {
+            "postalcode": "13010210",
+            "street": "Rua Sacramento",
+            "number": "1000",
+            "details": "apto 142",
+            "district": "Centro",
+            "city_state": "Campinas/SP"
+
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv":{
+        "name":"Gabriel",
+        "cpf": "00000012121",
+        "email": "hahahaa.hotmail.com",
+        "zap": "11999999999",
+        "address": {
+            "postalcode": "13010210",
+            "street": "Rua Sacramento",
+            "number": "1000",
+            "details": "apto 142",
+            "district": "Centro",
+            "city_state": "Campinas/SP"
+
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
